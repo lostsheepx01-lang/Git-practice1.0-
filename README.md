@@ -17,5 +17,6 @@ This program converts:
 - `git config --list` – see user data and configuration
 - `git clone <repo link>` – download GitHub project to computer
 - `cd foldername` – it changes directory or goes into that git folder
+- `git init `- turns a normal folder into git project , . git hidden folder also gets formed
 
 
