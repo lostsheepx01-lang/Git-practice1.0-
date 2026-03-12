@@ -10,6 +10,6 @@ int main()
   printf("enter temperature in degree fahrenheit");
   scanf("%f",&y);
   celcius= (y-32)*5/9;
-  printf("given temperature in degree celcius is %f \n" celcius);
+  printf("given temperature in degree celcius is %f \n", celcius);
   return 0;
 }
